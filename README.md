@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# boom spot
+cocos game
